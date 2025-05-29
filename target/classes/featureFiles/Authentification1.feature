@@ -1,4 +1,4 @@
-@tag
+@authentification
 Feature:Title of your feature
 Given I launch may app
 When I fill credentials
