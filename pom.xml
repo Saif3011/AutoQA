@@ -18,8 +18,8 @@
 	<selenium.version>4.14.0</selenium.version>
 	<log4jcore.version>2.20.0</log4jcore.version>
 	<log4japi.version>2.20.0</log4japi.version>
-	<cucumberjava.version>7.22.0</cucumberjava.version>
-	<cucumberjunit.version>7.22.0</cucumberjunit.version>
+	<cucumberjava.version>7.22.2</cucumberjava.version>
+	<cucumberjunit.version>7.22.2</cucumberjunit.version>
 	<commons.version>2.11.0</commons.version>
 	<pdf.version>1.8.1</pdf.version>
 	<recorder.version>0.7.7.0</recorder.version>
